@@ -1,0 +1,90 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600&display=swap');
+
+* {
+    background: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+section {
+    display: flex;
+    justify-content: center;
+}
+.Shelf {
+    padding: 1.5rem;
+    background: hsl(216, 50%, 16%);
+    height: 530px;
+    width: 300px;
+    border: 0.1rem;
+    border-radius: 1rem;
+    justify-content: center;
+}
+
+.EQ {
+    width: 300px;
+    border-radius: 10px;
+    justify-content: center;
+}
+h2 {
+    color: hsl(0, 0%, 100%);
+    background: hsl(216, 50%, 16%);
+    font-size: 18px;
+}
+p {
+    color: hsl(217, 7%, 44%);
+    background: hsl(216, 50%, 16%);
+    font-size: 14px;
+}
+.passport {
+    width: 30px;
+    height: 30px;
+    border-radius: 10rem;
+    border: 1px solid white;
+
+}
+
+.main {
+    display: flex;
+    background: hsl(216, 50%, 16%);
+}
+.days {
+    margin-left: 120px;
+}
+svg {
+    background: hsl(216, 50%, 16%);
+}
+.Creation {
+    display: flex;
+    background:hsl(216, 50%, 16%);
+} 
+span {
+    background:hsl(216, 50%, 16%);
+    margin-left: 10px;
+    color: hsl(217, 7%, 44%);
+
+}
+h3 {
+    color: rgb(174, 193, 209);
+}
+.common {
+    margin-top: 6px;
+    background:hsl(216, 50%, 16%);
+}
+.last {
+    color: hsl(178, 100%, 50%);
+    font-size: 15px;
+    background:hsl(216, 50%, 16%);
+    margin-top: 12px;
+    margin-left: 6px;
+    font-weight: bold;
+}
+.lasts {
+    color: hsl(217, 7%, 44%);
+    font-size: 15px;
+    background:hsl(216, 50%, 16%);
+    margin-top: 12px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+hr {
+    margin-bottom: 15px;
+}
